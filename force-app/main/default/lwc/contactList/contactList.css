@@ -1,0 +1,5 @@
+img {
+    width: 30px;
+    height: 30px;
+    border-radius: var(--lwc-varSpacingXSmall, 0.5rem)(--lwc-borderRadiusCircle, var(--lwc-varSpacingXSmall, 0.5rem)(--lwc-varSpacingXSmall, 0.5rem))(--lwc-borderRadiusLarge, 0.var(--lwc-spacingXSmall, 0.5rem)m)(--lwc-borderRadiusCircle, 50%);
+}
